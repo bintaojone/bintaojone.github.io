@@ -1,0 +1,9 @@
+* {
+    font-family: "Segoe UI", Ubuntu, Roboto, monospace;
+}
+nav ul a, a.brand-logo {
+    color: #880e4f;
+}
+a.brand-logo {
+    margin-left: 1rem;
+}
